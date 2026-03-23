@@ -1,2 +1,2 @@
 # periodic-table-quiz
-This is a quiz which test you on all the elements in the periodic table!
+This is a quiz which tests you on all the elements in the periodic table!
